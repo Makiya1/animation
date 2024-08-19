@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.paragraf{
+    height: 100px;
+}
+.paragraf h2{
+    font-size: 50px;
+    padding: 20px;
+background-color: #54a5dc;
+height: 100px;
+}
